@@ -15,7 +15,6 @@ body:
       label: Documentation Update
       description: What part of the documentation needs to be updated or added?
       placeholder: What part of the documentation needs to be updated or added?
-      value: "A new documentation request!"
     validations:
       required: true
   - type: textarea
@@ -24,7 +23,6 @@ body:
       label: Why is this needed?
       description: Explain the importance of this update.
       placeholder: Explain the importance of this update.
-      value: "A new documentation request!"
     validations:
       required: true
   - type: textarea

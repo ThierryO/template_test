@@ -15,7 +15,6 @@ body:
       label: Feature description
       description: Please describe the feature you are requesting and the problem it solves.
       placeholder: Describe the feature you would like to see implemented.
-      value: "A new feature request!"
     validations:
       required: true
   - type: textarea
@@ -24,7 +23,6 @@ body:
       label: Why is this needed?
       description: Please describe why this feature is needed and the problem it solves.
       placeholder: Explain why this feature is important.
-      value: "A new feature request!"
     validations:
       required: true
   - type: textarea

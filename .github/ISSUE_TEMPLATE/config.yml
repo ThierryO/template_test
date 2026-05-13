@@ -10,3 +10,8 @@ issue_templates:
     title: "[Feature]: "
     labels: ["enhancement"]
     body: "./ISSUE_TEMPLATE/feature_request.yml"
+  - name: "Documentation"
+    description: "Suggest updates or additions to documentation."
+    title: "[Docs]: "
+    labels: ["documentation"]
+    body: "./ISSUE_TEMPLATE/documentation.yml"
